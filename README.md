@@ -1,6 +1,6 @@
 # kipu-bank
 Una descripción de lo que hace el contrato.
-El contrato lleva los saldos de los usuarios del banco, permitiéndoles depositar y retirar ETH.
+- El contrato lleva los saldos de los usuarios del banco, permitiéndoles depositar y retirar ETH.
 
 Instrucciones de despliegue.
 En este caso el despliegue del contrato se hizo desde la IDE Remix en su versión web, realizando los siguientes pasos:
@@ -15,7 +15,7 @@ En este caso el despliegue del contrato se hizo desde la IDE Remix en su versió
 Cómo interactuar con el contrato.
 * Ingresar al siguiente link, donde se muestra el contrato desplegado: https://sepolia.etherscan.io/address/0xa985602104d4db2e5df59562e198d2caec522e4c
 * Hacer click en la pestaña Contract
-  Surgirán tres opciones, Code, Read Contract y Write Contract;
-  Code: Se puede ver el código fuente del contrato.
-  Read Contract: Le proporciona todas las funciones del contrato con las que puede obtener resultados del banco o las cuentas de los distintos clientes.
-  Write Contract: Le proporciona las funciones para Depositar (depositEth) o retirar (withdrawEth) ETH en la cuenta.
+* Surgirán tres opciones, Code, Read Contract y Write Contract;
+- Code: Se puede ver el código fuente del contrato.
+- Read Contract: Le proporciona todas las funciones del contrato con las que puede obtener resultados del banco o las cuentas de los distintos clientes.
+- Write Contract: Le proporciona las funciones para Depositar (depositEth) o retirar (withdrawEth) ETH en la cuenta.
